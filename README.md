@@ -1,0 +1,2 @@
+# ps
+Trabalho de conclusão de curso, para meu curso técnico em montagem e suporte de computadores, este é um site com agluns procedimentos básicos e inciais para manutenção de micros. Estes arquivos do projetos não estão completos devido a problemas de backup que tive, portanto me perdoem alguma incongruência. Projeto desenvolvido em equipe, cujo os participantes foram, Thayná, Yasmin, Lucas Brito, Igor Silva.
